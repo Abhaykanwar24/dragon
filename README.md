@@ -1,1 +1,1 @@
-# this is a dragon game with html css and javvascript
+# this is a dragon game with html css and javascript
